@@ -1,5 +1,7 @@
 # Ape Bot
 # Parameter example
+prepare .env file and store your configs in there.
+
 ```
 API_KEY = ************************************
 API_SECRET = *********************************
